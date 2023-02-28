@@ -1,4 +1,30 @@
-### Hi there 👋
+<div align="center">
+  
+<a href="">![i](https://user-images.githubusercontent.com/115794049/220998533-4db29dda-dbba-40ee-ae02-28c3539c69d2.png)</a>
+  
+</div>
+
+# Hi 👋
+## I am Rabia Naz
+- ✨ Enthusiastic Programmer and Designer
+- 💬 How to reach me: <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https+://www.linkedin.com/in/rabia-n/)
+
+### Languages and Frameworks
+![LinkedIn](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![LinkedIn](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### My Github Stats
+![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/profile-details?username=iamRabia-N&theme=dracula)
+![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/repos-per-language?username=iamRabia-N&theme=dracula)
+![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/most-commit-language?username=iamRabia-N&theme=dracula)
+![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/stats?username=iamRabia-N&theme=dracula)
+![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/productive-time?username=iamRabia-N&theme=dracula&utcOffset=8)
 
 <!--
 **iamRabia-N/iamRabia-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
