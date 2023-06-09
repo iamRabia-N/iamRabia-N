@@ -24,7 +24,6 @@
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/repos-per-language?username=iamRabia-N&theme=nord_dark)
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/most-commit-language?username=iamRabia-N&theme=nord_dark)
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/stats?username=iamRabia-N&theme=nord_dark)
-![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/productive-time?username=iamRabia-N&theme=nord_dark&utcOffset=8)
 
 <!--
 **iamRabia-N/iamRabia-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
