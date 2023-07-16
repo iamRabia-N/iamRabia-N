@@ -9,7 +9,7 @@
 - ✨ Enthusiastic Programmer and Designer
 - 💬 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-n/)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rabia_Naz)
 ### Languages and Frameworks
 ![LinkedIn](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
