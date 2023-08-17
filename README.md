@@ -9,6 +9,7 @@
 - ✨ Enthusiastic Programmer and Designer
 - 💬 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-n/) <br>
+- ⚡️ Socials <br>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rabia_Naz)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/iamRabia-N)
 
