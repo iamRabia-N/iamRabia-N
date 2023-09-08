@@ -12,6 +12,7 @@
 - ⚡️ Socials <br>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rabia_Naz)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/iamRabia-N)
+[![Portfolio-Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](iamrabia-n.github.io/)
 
 ### Languages and Frameworks
 ![LinkedIn](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
