@@ -32,6 +32,10 @@
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/most-commit-language?username=iamRabia-N&theme=nord_dark)
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/stats?username=iamRabia-N&theme=nord_dark)
 
+### Steak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamRabia-N&theme=prussian&background=000000&ring=3CB2E2&fire=3CB2E2&border=3CB2E2&stroke=3CB2E2&currStreakLabel=3CB2E2&sideNums=3CB2E2" alt="GitHub Streak Stats" />
+
+
 <!--
 **iamRabia-N/iamRabia-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
