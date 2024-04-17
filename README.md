@@ -1,9 +1,3 @@
-<div align="center">
-  
-<a href="">![i](https://user-images.githubusercontent.com/115794049/220998533-4db29dda-dbba-40ee-ae02-28c3539c69d2.png)</a>
-  
-</div>
-
 # Hi 👋, I am Rabia Naz
 -  🌱 I’m currently exploring machine learning
 -  🤝 I’m open to collaborate on ML, UX and frontend developement related projects
