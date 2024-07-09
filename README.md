@@ -1,6 +1,6 @@
 # Hi 👋, I am Rabia Naz
 -  🌱 I’m currently exploring machine learning
--  🤝 I’m open to collaborate on ML, UX and frontend developement related projects
+-  🤝 I’m open to collaborate on ML, UX and frontend development related projects
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rabia-n/) 
 -  🌐 Checkout my [Portfolio](https://iamrabia-n.github.io/)
 
