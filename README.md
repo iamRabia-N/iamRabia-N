@@ -1,4 +1,11 @@
-# Hi 👋, I am Rabia Naz
+<div align="center">
+  <h1>Hi 👋, I am Rabia Naz</h1>
+  <p>ML Engineer | Technical Writer | UX Designer | Frontend Developer</p>
+  <br>
+</div>
+
+
+
 -  🌱 I’m currently exploring machine learning
 -  🤝 I’m open to collaborate on ML, UX and frontend development related projects
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rabia-n/) 
