@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I am Rabia Naz</h1>
-  <p>ML Engineer | Technical Writer | UX Designer | Frontend Developer</p>
+  <h4>ML Engineer | Technical Writer | UX Designer | Frontend Developer</h4>
   <br>
 </div>
 
