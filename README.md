@@ -8,7 +8,7 @@
 
 
 
--  🌱 I’m currently exploring machine learning
+-  🌱 I’m currently exploring machine learning and deep learning
 -  🤝 I’m open to collaborate on ML, UX and frontend development related projects
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rabia-n/) 
 -  🌐 Checkout my [Portfolio](https://iamrabia-n.github.io/)
