@@ -51,6 +51,8 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=Webflow&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
 
 ## My Github Stats
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/profile-details?username=iamRabia-N&theme=nord_dark)
