@@ -57,7 +57,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-323330?style=for-the-badge&logo=Inkscape&logoColor=white)
 
-## My Github Stats
+## Github Stats
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/profile-details?username=iamRabia-N&theme=nord_dark)
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/most-commit-language?username=iamRabia-N&theme=nord_dark)
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/stats?username=iamRabia-N&theme=nord_dark)
