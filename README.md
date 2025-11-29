@@ -1,11 +1,10 @@
 <div align="center">
   <h1>Hi 👋, I am Rabia Naz</h1>
-  <h4>ML Engineer | Technical Writer | UX Designer</h4>
+  <h3>ML Engineer | Technical Writer | UX Designer</h3>
   <br>
    <br>
   
 </div>
-
 
 
 -  🌱 Currently exploring machine learning and deep learning
