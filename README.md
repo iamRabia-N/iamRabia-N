@@ -66,6 +66,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamRabia-N&theme=nord_dark)
 ![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/stats?username=iamRabia-N&theme=nord_dark)
 
+
+
+## Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=iamRabia-N&theme=flat&no-frame=true&row=1&column=8) 
+
 <!--
 ### Steak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamRabia-N&theme=prussian&background=000000&ring=3CB2E2&fire=3CB2E2&border=3CB2E2&stroke=3CB2E2&currStreakLabel=3CB2E2&sideNums=3CB2E2" alt="GitHub Streak Stats" />
