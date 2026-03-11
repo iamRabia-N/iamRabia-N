@@ -3,13 +3,12 @@
   <h3>ML Engineer | Technical Writer | UX Designer</h3>
   <br>
    <br>
-  
 </div>
 
 
 -  🌱 Currently exploring machine learning and deep learning
 -  🤝 Open to collaborate on ML, UX and technical writing projects
--  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rabia-n/) 
+-  📫 Reach me via [LinkedIn](https://www.linkedin.com/in/rabia-n/) 
 -  🌐 Checkout my [Portfolio](https://iamrabia-n.github.io/)
 
 
@@ -62,14 +61,10 @@
 
 
 ## Github Stats
-![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/profile-details?username=iamRabia-N&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamRabia-N&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamRabia-N&theme=nord_dark)
-![](http://github-profile-summary-cards-k0zymzmdf.vercel.app/api/cards/stats?username=iamRabia-N&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamRabia-N&theme=nord_dark)
 
-
-
-## Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=iamRabia-N&theme=flat&no-frame=true&row=1&column=8) 
 
 <!--
 ### Steak Stats
