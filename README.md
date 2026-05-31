@@ -1,23 +1,16 @@
 # Hi 👋, I'm Rabia Naz
 
-**ML Engineer | Technical Writer | UX Designer**
-
-## About Me
-- Currently exploring LLM applications and knowledge retrieval systems
-- Building ML systems for production 
-- 4 published research papers
-- 120+ open-source contributions
-- Open to collaborating on ML/DL projects, technical writing and UX design
+- I build machine learning models end to end, from data exploration to deployment
+- I document my work as clear, reproducible notebooks and experiments
+- Open to research and machine learning collaborations
 
 
-
-## Work & Projects
-| Area | Description | Links |
-|:-----|:------------|:------|
-| ML | Models, experiments, notebooks | [GitHub](https://github.com/iamRabia-N) / [Kaggle](https://www.kaggle.com/rabianaz22) / [Devpost](https://devpost.com/Rabia_N) |
-| Research | Publications, papers | [ResearchGate](https://www.researchgate.net/profile/Rabia-Naz-10) / [ORCID](https://orcid.org/0009-0001-2418-1972) |
-| UX & Design | Case studies, interface designs | [Behance](https://www.behance.net/iamRabia-N) / [Portfolio](https://iamrabia-n.github.io/) |
-| Technical Writing | Articles, tutorials, Q&A | [Medium](https://medium.com/@Rabia_Naz) / [LinkedIn](https://www.linkedin.com/in/rabia-n/) / [Quora](https://www.quora.com/profile/Rabia-Naz-76/) |
+## Featured Projects
+| Name | Description | Link |
+|:-----|:------------|:-----|
+| AI vs Human Text Detection | Four-model NLP benchmark on a 487K-essay dataset | [Kaggle](https://www.kaggle.com/code/rabianaz22/ai-vs-human-text-across-30-linguistic-features) |
+| Disaster Tweets | TF-IDF, BiLSTM, and BERT comparison | [Kaggle](https://www.kaggle.com/code/rabianaz22/disaster-tweets-tf-idf-vs-bilstm-vs-bert) |
+| Blue Intelligence | Multi-agent maritime AI OSINT system | [GitHub](https://github.com/iamRabia-N/Blue-Intelligence) |
 
 
 ## Tech Stack
@@ -26,10 +19,7 @@
 ![Languages](https://i.icoziv.workers.dev/icons?i=c,cpp,python,javascript,php,mysql)
 
 ### ML & DL Tools
-![ML](https://i.icoziv.workers.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,keras,matplotlib,seaborn,flask,jupyter,pytorch)
-
-### Design & Development
-![DesignDev](https://i.icoziv.workers.dev/icons?i=inkscape,figma,adobexd,webflow,canva,html,css,bootstrap,jquery,git)
+![ML](https://i.icoziv.workers.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,keras,matplotlib,seaborn,pytorch,jupyter)
 
 
 ## GitHub Stats
