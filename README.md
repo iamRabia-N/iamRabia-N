@@ -10,7 +10,7 @@
 |:-----|:------------|:-----|
 | AI vs Human Text Detection | Four-model NLP benchmark on a 487K-essay dataset | [Kaggle](https://www.kaggle.com/code/rabianaz22/ai-vs-human-text-across-30-linguistic-features) |
 | Disaster Tweets | TF-IDF, BiLSTM, and BERT comparison | [Kaggle](https://www.kaggle.com/code/rabianaz22/disaster-tweets-tf-idf-vs-bilstm-vs-bert) |
-| Blue Intelligence | Multi-agent maritime AI OSINT system | [GitHub](https://github.com/iamRabia-N/Blue-Intelligence) |
+| Blue Intelligence | AI system for mapping marine conservation data | [GitHub](https://github.com/iamRabia-N/Blue-Intelligence) |
 
 
 ## Tech Stack
